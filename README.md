@@ -9,7 +9,7 @@
 <hr>
 <h3>☁️ About Me ☁️</h3>
 <ul>
-  <li>I'm  a first-year Computer Science student at the University of San Carlos. 🏫</li>
+  <li>I'm a second-year Computer Science student at the University of San Carlos. 🏫</li>
   <li>I enjoy spontaneous food trips 🍜 and listening to music. 🎧</li>
   <li>Someday, I hope to become a versatile full stack developer 💻, creating fun projects of my own. 😊</li>
 </ul>
