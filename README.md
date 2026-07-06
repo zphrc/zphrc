@@ -1,19 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-</head>
-<body>
-<h3 align="center">Hi, I'm Zophia Roca!</h3>
-<p align="center">
-<h3>About Me</h3>
-<ul>
-  <li>Third-year Computer Science student at the University of San Carlos</li>
-  <li>Currently exploring data engineering — focusing on Python and SQL</li>
-  <li>Aspiring data engineer passionate about building data-driven solutions</li>
-</ul>
-</p>
-</body>
-</html>
+
+#### Hi there!👋
+
+I'm Zophia, a computer science graduate from the University of San Carlos in Cebu, Philippines.
+
+I'm currently building **Oishi**, a real-time analytics platform for ingesting and visualizing event data. I'm also working through the **Power BI Fundamentals** track on DataCamp and dreaming up new projects in Python and C++.
+
+Outside of tech, I enjoy making art, reading, and spontaneous food trips.
 
 <!-- ---
 
