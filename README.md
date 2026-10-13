@@ -3,7 +3,7 @@
 
 I'm Zophia, a computer science graduate from the University of San Carlos in Cebu, Philippines.
 
-These days I'm exploring data science and learning by building small projects. Right now I'm working on a [forecast of the 2026–27 El Niño's impact on rainfall in Central Visayas](https://github.com/<your-username>/elnino-visayas-forecast).
+These days I'm exploring data science and learning by building small projects. Right now I'm working on a [forecast of the 2026–27 El Niño's impact on rainfall in Central Visayas](https://github.com/zphrc/elnino-visayas-forecast).
 
 Outside of tech, I enjoy making art, reading, and spontaneous food trips.
 
